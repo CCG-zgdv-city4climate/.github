@@ -42,6 +42,8 @@ The following repositories are the main starting points for understanding the so
 | `c4c.webgateway` | Gateway and integration entry point |
 | `c4c.p4contextinfo` | Context information component |
 | `c4c.p5histoarch` | Historical archive component |
+| `c4c.p9eredesadapter` | Adapater and collector component |
+| `c4c.p25gmbuildingsimulator` | Guimaraes Buildings prediction twin engine |
 
 ## Working model
 
