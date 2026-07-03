@@ -55,7 +55,6 @@ The repositories hosted in this organization reflect software work developed by 
 
 ## Contact
 
-**Instituto CCG/ZGDV**  
-https://www.ccg.pt
-Technical Coordinator: nuno.soares@ccg.pt
-Product Owner: francisco.morais@ccg.pt
+**Instituto CCG/ZGDV**  https://www.ccg.pt  <br>
+Product Owner: francisco.morais@ccg.pt  <br>
+Technical Coordinator: nuno.soares@ccg.pt  <br>
