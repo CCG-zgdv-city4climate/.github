@@ -49,6 +49,9 @@ This GitHub organization is used as a controlled dissemination and collaboration
 
 Only the repositories, branches, and artefacts considered appropriate for this purpose are made available here.
 
+Find more information about the architecture and components here:
+[Architecture Documentation](https://github.com/CCG-zgdv-city4climate/c4c-management/README.md)
+
 ## Ownership and attribution
 
 The repositories hosted in this organization reflect software work developed by **Instituto CCG/ZGDV** within the City4Climate project, delivered to ARTE as the adopting public entity in the scope of City4Climate – Gémeos Digitais Urbanos para a Ação Climática, funded by Agência para a Reforma Tecnológica do Estado (ARTE) under tender 2025.00141.DT4ST, Digital Twins4SmartTerritories (DT4ST): Gémeos Digitais para Territórios Inteligentes, supported by the Portuguese Republic’s Recovery and Resilience Plan (PRR), through investment component TD-C19-i08, “Territórios Inteligentes”.
