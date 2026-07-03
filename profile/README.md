@@ -49,7 +49,7 @@ This GitHub organization is used as a controlled dissemination and collaboration
 
 Only the repositories, branches, and artefacts considered appropriate for this purpose are made available here.
 
-Find more information about the architecture and components here:
+Find more information about use cases, architecture and the deployment repositories in here:
 [Architecture Documentation](https://github.com/CCG-zgdv-city4climate/c4c-management/blob/main/README.md)
 
 ## Ownership and attribution
